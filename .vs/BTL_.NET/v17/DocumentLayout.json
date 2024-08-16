@@ -1,0 +1,971 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|e:\\h\u1ECDc t\u1EADp\\.net\\btl_.net\\btl_.net\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|e:\\h\u1ECDc t\u1EADp\\.net\\btl_.net\\btl_.net\\khoadataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\khoadataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|e:\\h\u1ECDc t\u1EADp\\.net\\btl_.net\\btl_.net\\inthongtin\\inthongtinchinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\inthongtin\\inthongtinchinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\inthongtin\\inthongtinchinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\inthongtin\\inthongtinchinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\log_sig\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\log_sig\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\log_sig\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\log_sig\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\log_sig\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\log_sig\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\log_sig\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\log_sig\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\timkiem\\tk_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\timkiem\\tk_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\thongtin\\frm_tt_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\thongtin\\frm_tt_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\quanly\\frm_ql_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\quanly\\frm_ql_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hotro\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hotro\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hotro\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hotro\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hotro\\capnhatphanmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hotro\\capnhatphanmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\ht_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\ht_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\ht_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\ht_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\frm_qltk_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\frm_qltk_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\frm_qltk_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\frm_qltk_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\frm_qltk_truongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\frm_qltk_truongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\frm_qltk_truongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\frm_qltk_truongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\frm_qltk_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\frm_qltk_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\frm_qltk_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\frm_qltk_gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\frm_qltk_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\frm_qltk_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\hethong\\frm_qltk_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\hethong\\frm_qltk_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\diem\\frmdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\diem\\frmdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\btl_.net\\diem\\frmdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01B9EC3C-DBDD-47D2-A6D2-954C79282B72}|BTL_.NET\\BTL_.NET.csproj|solutionrelative:btl_.net\\diem\\frmdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trangchu.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Trangchu.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Trangchu.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Trangchu.cs [Design]",
+              "RelativeToolTip": "BTL_.NET\\Trangchu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:46:34.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "khoaDataSet.xsd",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\khoaDataSet.xsd",
+              "RelativeDocumentMoniker": "BTL_.NET\\khoaDataSet.xsd",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\khoaDataSet.xsd",
+              "RelativeToolTip": "BTL_.NET\\khoaDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-16T08:44:51.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inthongtinchinhsach.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\inthongtin\\inthongtinchinhsach.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\inthongtin\\inthongtinchinhsach.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\inthongtin\\inthongtinchinhsach.cs",
+              "RelativeToolTip": "BTL_.NET\\inthongtin\\inthongtinchinhsach.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:43:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmDangKy.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Log_Sig\\FrmDangKy.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Log_Sig\\FrmDangKy.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\Log_Sig\\FrmDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inthongtinchinhsach.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\inthongtin\\inthongtinchinhsach.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\inthongtin\\inthongtinchinhsach.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\inthongtin\\inthongtinchinhsach.cs [Design]",
+              "RelativeToolTip": "BTL_.NET\\inthongtin\\inthongtinchinhsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:43:38.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDangKy.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Log_Sig\\FrmDangKy.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Log_Sig\\FrmDangKy.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Log_Sig\\FrmDangKy.cs",
+              "RelativeToolTip": "BTL_.NET\\Log_Sig\\FrmDangKy.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAmwGQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Log_Sig\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Log_Sig\\FrmDangNhap.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\Log_Sig\\FrmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDangNhap.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Log_Sig\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Log_Sig\\FrmDangNhap.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Log_Sig\\FrmDangNhap.cs",
+              "RelativeToolTip": "BTL_.NET\\Log_Sig\\FrmDangNhap.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAmwG0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tk_sinhvien.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_sinhvien.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_sinhvien.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_sinhvien.cs",
+              "RelativeToolTip": "BTL_.NET\\TimKiem\\tk_sinhvien.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tk_sinhvien.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_sinhvien.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_sinhvien.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_sinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tk_monhoc.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_monhoc.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_monhoc.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_monhoc.cs",
+              "RelativeToolTip": "BTL_.NET\\TimKiem\\tk_monhoc.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "tk_monhoc.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_monhoc.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_monhoc.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_monhoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tk_lop.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_lop.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_lop.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_lop.cs",
+              "RelativeToolTip": "BTL_.NET\\TimKiem\\tk_lop.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAjwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "tk_lop.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_lop.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_lop.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_lop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "tk_khoa.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_khoa.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_khoa.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_khoa.cs",
+              "RelativeToolTip": "BTL_.NET\\TimKiem\\tk_khoa.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAvwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tk_khoa.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_khoa.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_khoa.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_khoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tk_giaovien.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_giaovien.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_giaovien.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_giaovien.cs",
+              "RelativeToolTip": "BTL_.NET\\TimKiem\\tk_giaovien.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAjwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tk_giaovien.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_giaovien.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_giaovien.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_giaovien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tk_chinhsach.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_chinhsach.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_chinhsach.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_chinhsach.cs",
+              "RelativeToolTip": "BTL_.NET\\TimKiem\\tk_chinhsach.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAvwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tk_chinhsach.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_chinhsach.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\TimKiem\\tk_chinhsach.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\TimKiem\\tk_chinhsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frm_tt_sinhvien.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_sinhvien.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_sinhvien.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_sinhvien.cs",
+              "RelativeToolTip": "BTL_.NET\\thongtin\\frm_tt_sinhvien.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAvwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frm_tt_sinhvien.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_sinhvien.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_sinhvien.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_sinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frm_tt_monhoc.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_monhoc.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_monhoc.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_monhoc.cs",
+              "RelativeToolTip": "BTL_.NET\\thongtin\\frm_tt_monhoc.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frm_tt_lop.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_lop.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_lop.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_lop.cs",
+              "RelativeToolTip": "BTL_.NET\\thongtin\\frm_tt_lop.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frm_tt_lop.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_lop.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_lop.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_lop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frm_tt_monhoc.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_monhoc.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_monhoc.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_monhoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frm_tt_khoa.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_khoa.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_khoa.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_khoa.cs",
+              "RelativeToolTip": "BTL_.NET\\thongtin\\frm_tt_khoa.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAvwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frm_tt_khoa.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_khoa.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_khoa.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_khoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frm_tt_gv.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_gv.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_gv.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_gv.cs",
+              "RelativeToolTip": "BTL_.NET\\thongtin\\frm_tt_gv.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frm_tt_gv.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_gv.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_gv.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_gv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frm_tt_diem.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_diem.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_diem.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_diem.cs",
+              "RelativeToolTip": "BTL_.NET\\thongtin\\frm_tt_diem.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frm_tt_diem.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_diem.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_diem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_diem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frm_tt_chinhsach.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_chinhsach.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_chinhsach.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_chinhsach.cs",
+              "RelativeToolTip": "BTL_.NET\\thongtin\\frm_tt_chinhsach.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAxwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frm_tt_chinhsach.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_chinhsach.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\thongtin\\frm_tt_chinhsach.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\thongtin\\frm_tt_chinhsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frm_ql_sinhvien.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_sinhvien.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_sinhvien.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_sinhvien.cs",
+              "RelativeToolTip": "BTL_.NET\\QuanLy\\frm_ql_sinhvien.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAnwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frm_ql_sinhvien.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_sinhvien.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_sinhvien.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_sinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frm_ql_monhoc.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_monhoc.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_monhoc.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_monhoc.cs",
+              "RelativeToolTip": "BTL_.NET\\QuanLy\\frm_ql_monhoc.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAvwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frm_ql_monhoc.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_monhoc.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_monhoc.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_monhoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frm_ql_lop.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_lop.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_lop.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_lop.cs",
+              "RelativeToolTip": "BTL_.NET\\QuanLy\\frm_ql_lop.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAvwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frm_ql_lop.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_lop.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_lop.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_lop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frm_ql_khoa.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_khoa.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_khoa.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_khoa.cs",
+              "RelativeToolTip": "BTL_.NET\\QuanLy\\frm_ql_khoa.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAjwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frm_ql_khoa.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_khoa.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_khoa.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_khoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frm_ql_gv.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_gv.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_gv.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_gv.cs",
+              "RelativeToolTip": "BTL_.NET\\QuanLy\\frm_ql_gv.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAvwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frm_ql_gv.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_gv.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_gv.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_gv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frm_ql_diem.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_diem.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_diem.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_diem.cs",
+              "RelativeToolTip": "BTL_.NET\\QuanLy\\frm_ql_diem.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frm_ql_diem.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_diem.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_diem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_diem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frm_ql_chinhsach.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_chinhsach.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_chinhsach.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_chinhsach.cs",
+              "RelativeToolTip": "BTL_.NET\\QuanLy\\frm_ql_chinhsach.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAjwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frm_ql_chinhsach.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_chinhsach.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\QuanLy\\frm_ql_chinhsach.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\QuanLy\\frm_ql_chinhsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Thongtin.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Hotro\\Thongtin.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Hotro\\Thongtin.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\Hotro\\Thongtin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Lienhe.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Hotro\\Lienhe.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Hotro\\Lienhe.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\Hotro\\Lienhe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Capnhatphanmem.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Hotro\\Capnhatphanmem.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Hotro\\Capnhatphanmem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\Hotro\\Capnhatphanmem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ht_DoiMK.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\ht_DoiMK.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\ht_DoiMK.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\ht_DoiMK.cs",
+              "RelativeToolTip": "BTL_.NET\\HeThong\\ht_DoiMK.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ht_DoiMK.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\ht_DoiMK.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\ht_DoiMK.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\HeThong\\ht_DoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frm_qltk_user.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_user.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\frm_qltk_user.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_user.cs",
+              "RelativeToolTip": "BTL_.NET\\HeThong\\frm_qltk_user.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAvwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frm_qltk_user.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_user.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\frm_qltk_user.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_user.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frm_qltk_truongkhoa.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_truongkhoa.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\frm_qltk_truongkhoa.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_truongkhoa.cs",
+              "RelativeToolTip": "BTL_.NET\\HeThong\\frm_qltk_truongkhoa.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAvwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frm_qltk_truongkhoa.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_truongkhoa.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\frm_qltk_truongkhoa.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_truongkhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frm_qltk_gv.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_gv.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\frm_qltk_gv.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_gv.cs",
+              "RelativeToolTip": "BTL_.NET\\HeThong\\frm_qltk_gv.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frm_qltk_gv.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_gv.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\frm_qltk_gv.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_gv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frm_qltk_admin.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_admin.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\frm_qltk_admin.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_admin.cs",
+              "RelativeToolTip": "BTL_.NET\\HeThong\\frm_qltk_admin.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAvwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frm_qltk_admin.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_admin.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\HeThong\\frm_qltk_admin.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\HeThong\\frm_qltk_admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FrmDiem.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Diem\\FrmDiem.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Diem\\FrmDiem.cs",
+              "ToolTip": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Diem\\FrmDiem.cs",
+              "RelativeToolTip": "BTL_.NET\\Diem\\FrmDiem.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FrmDiem.cs [Design]",
+              "DocumentMoniker": "E:\\H\u1ECDc t\u1EADp\\.Net\\BTL_.NET\\BTL_.NET\\Diem\\FrmDiem.cs",
+              "RelativeDocumentMoniker": "BTL_.NET\\Diem\\FrmDiem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\C#\\BTL_.NET\\BTL_.NET\\Diem\\FrmDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T08:43:38.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

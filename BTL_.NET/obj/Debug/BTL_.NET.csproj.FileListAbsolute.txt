@@ -1,0 +1,262 @@
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL.Diem.FrmDiem.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.quanlytaikhoan.frm_qltk_admin.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.quanlytaikhoan.frm_qltk_gv.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.quanlytaikhoan.frm_qltk_truongkhoa.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.quanlytaikhoan.frm_qltk_user.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.HeThong.ht_DoiMK.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL.Log_Sig.FrmDangKy.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Log_Sig.FrmDangNhap.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Properties.Resources.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_chinhsach.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_diem.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_gv.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_khoa.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_lop.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_monhoc.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_sinhvien.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_chinhsach.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_diem.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_gv.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_khoa.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_lop.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_monhoc.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_sinhvien.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_chinhsach.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_giaovien.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_khoa.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_lop.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_monhoc.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_sinhvien.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\BTL_.NET.exe.config
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\BTL_.NET.exe
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\BTL_.NET.pdb
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.exe
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.pdb
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\EnvDTE.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\stdole.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.csproj.CopyComplete
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinkhoa.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\en\BTL_.NET.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\vi\BTL_.NET.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\en\BTL_.NET.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\vi\BTL_.NET.resources.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtingiaovien.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinchinhsach.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtindiem.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinlop.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinmonhoc.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinsinhvien.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Hotro.Capnhatphanmem.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Hotro.Lienhe.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Hotro.Thongtin.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zxing.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zxing.presentation.dll
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zxing.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\bin\Debug\zxing.presentation.xml
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL.FormChinh.frmformchinh.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL.FormChinh.frmformchinh.en.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL.FormChinh.frmformchinh.vi.resources
+C:\Users\DELL\Documents\C#\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Trangchu.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\BTL_.NET.exe.config
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\BTL_.NET.exe
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\BTL_.NET.pdb
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\en\BTL_.NET.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\vi\BTL_.NET.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zxing.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zxing.presentation.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\EnvDTE.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\stdole.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Data.v23.1.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Drawing.v23.1.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Utils.v23.1.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zxing.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zxing.presentation.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\EnvDTE.xml
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.csproj.AssemblyReference.cache
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL.Diem.FrmDiem.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL.FormChinh.frmformchinh.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.quanlytaikhoan.frm_qltk_admin.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.quanlytaikhoan.frm_qltk_gv.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.quanlytaikhoan.frm_qltk_truongkhoa.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.quanlytaikhoan.frm_qltk_user.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.HeThong.ht_DoiMK.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Hotro.Capnhatphanmem.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Hotro.Lienhe.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Hotro.Thongtin.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinchinhsach.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtindiem.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtingiaovien.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinkhoa.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinlop.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinmonhoc.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.inthongtin.inthongtinsinhvien.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL.Log_Sig.FrmDangKy.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Log_Sig.FrmDangNhap.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Properties.Resources.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_chinhsach.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_diem.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_gv.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_khoa.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_lop.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_monhoc.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_ql_sinhvien.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_chinhsach.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_diem.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_gv.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_khoa.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_lop.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_monhoc.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL1.thongtin.frm_tt_sinhvien.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_chinhsach.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_giaovien.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_khoa.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_lop.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_monhoc.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.TimKiem.tk_sinhvien.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.Trangchu.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL.FormChinh.frmformchinh.en.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL.FormChinh.frmformchinh.vi.resources
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.csproj.GenerateResource.cache
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.csproj.CoreCompileInputs.cache
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\en\BTL_.NET.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\vi\BTL_.NET.resources.dll
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.csproj.Up2Date
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.exe
+E:\Học tập\.Net\BTL_.NET\BTL_.NET\obj\Debug\BTL_.NET.pdb
